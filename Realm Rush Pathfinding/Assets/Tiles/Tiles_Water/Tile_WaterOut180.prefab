@@ -12,6 +12,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2662985037255786840, guid: 0a3b5f79e88f40d4e9f8cd3adbe3d547, type: 3}
+      propertyPath: isPlaceable
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3511729479504552707, guid: 0a3b5f79e88f40d4e9f8cd3adbe3d547, type: 3}
       propertyPath: m_Name
       value: Tile_WaterOut180
